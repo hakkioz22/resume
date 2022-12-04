@@ -8,7 +8,7 @@ const Intro = () => {
         <div className="hero-mask opacity-8 bg-dark"></div>
         <div
           className="hero-bg parallax"
-          style={{ backgroundImage: "url('images/intro-bg.jpg.jfif')" }}
+          style={{ backgroundImage: "url('images/intro-bg.jpg')" }}
         ></div>
         <div className="hero-content section d-flex min-vh-100">
           <div className="container my-auto">
